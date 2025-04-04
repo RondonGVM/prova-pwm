@@ -39,7 +39,7 @@ const Jogo = () => {
       }
     }
 
-    setHistorico([...historico, `${palpite} - Bulls: ${bulls}, Cows: ${cows}`]);
+    setHistorico([`${palpite} - Bulls: ${bulls}, Cows: ${cows}`, ...historico]);
 
     if (bulls === 4) {
       setMensagem("Parabéns! Você acertou o número!");
