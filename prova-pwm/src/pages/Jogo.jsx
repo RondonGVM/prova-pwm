@@ -50,9 +50,10 @@ const Jogo = () => {
   };
 
   const desistir = () => {
-    setMensagem(`O número secreto era: ${numeroSecreto}`);
+    alert(`O número secreto era: ${numeroSecreto}`);
     setJogoEncerrado(true);
   };
+  
 
   const jogarNovamente = () => {
     setNumeroSecreto(gerarNumeroSecreto());
