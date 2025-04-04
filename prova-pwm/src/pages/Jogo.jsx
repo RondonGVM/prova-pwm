@@ -54,7 +54,6 @@ const Jogo = () => {
     setJogoEncerrado(true);
   };
   
-
   const jogarNovamente = () => {
     setNumeroSecreto(gerarNumeroSecreto());
     setPalpite("");
