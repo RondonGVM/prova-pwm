@@ -32,15 +32,19 @@ function Home() {
         sempre em busca de aprimorar minhas habilidades técnicas por meio de
         projetos práticos, estudos contínuos e colaboração em equipe. Meu
         objetivo é me tornar um desenvolvedor de software completo, capaz de
-        entregar soluções eficientes, criativas e escaláveis.Atualmente, venho
-        me dedicando a projetos que envolvem tecnologias modernas e boas
-        práticas de desenvolvimento, buscando sempre escrever código limpo,
-        reutilizável e de fácil manutenção. Tenho familiaridade com ferramentas
-        de versionamento como Git, metodologias ágeis e estou constantemente
-        explorando novas linguagens, frameworks e arquiteturas que me ajudem a
-        evoluir como desenvolvedor. Acredito que a tecnologia tem o poder de
-        transformar realidades e, por isso, me empenho em aprender e contribuir
-        de forma significativa em cada projeto que participo.
+        entregar soluções eficientes, criativas e escaláveis.
+      </p>
+      
+      <p>
+        Atualmente, venho me dedicando a projetos que envolvem tecnologias
+        modernas e boas práticas de desenvolvimento, buscando sempre escrever
+        código limpo, reutilizável e de fácil manutenção. Tenho familiaridade
+        com ferramentas de versionamento como Git, metodologias ágeis e estou
+        constantemente explorando novas linguagens, frameworks e arquiteturas
+        que me ajudem a evoluir como desenvolvedor. Acredito que a tecnologia
+        tem o poder de transformar realidades e, por isso, me empenho em
+        aprender e contribuir de forma significativa em cada projeto que
+        participo.
       </p>
 
       <h2 className="Competencias">Competências</h2>
